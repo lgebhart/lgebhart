@@ -7,7 +7,7 @@ Computer Science student and U.S. Air Force veteran building experience with Lin
 - Pursuing a B.S. in Computer Science
 - Learning Bash scripting in an Ubuntu virtual machine
 - Building and documenting Linux and network-security labs
-- Developing C++ control software for Germanna Community College's ASME robot design project
+- Developing control software and automation for Germanna Community College's ASME robot design project
 
 ## Featured Projects
 
