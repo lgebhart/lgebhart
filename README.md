@@ -1,6 +1,6 @@
 # Luke Gebhart
 
-Computer Science student and U.S. Air Force veteran building experience with Linux and software development. I am interested in learning about machine learning, reverse engineering, and systems programming.
+Computer Science student and U.S. Air Force veteran building experience with Linux and software development. I am interested in learning about software engineering, systems programming, and information technology.
 
 ## Current Focus
 
