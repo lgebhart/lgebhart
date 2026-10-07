@@ -1,7 +1,5 @@
 # Luke Gebhart
 
-# Luke Gebhart
-
 Computer Science student and U.S. Air Force veteran building hands-on experience in software development, Linux, networking, cybersecurity, and robotics.
 
 I am particularly interested in software engineering, systems programming, computer systems, and technical roles that involve understanding how software interacts with hardware and operating systems.
