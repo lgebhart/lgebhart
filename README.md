@@ -1,25 +1,65 @@
 # Luke Gebhart
 
-Computer Science student and U.S. Air Force veteran building experience with Linux and software development. I am interested in learning about software engineering, systems programming, and information technology.
+# Luke Gebhart
+
+Computer Science student and U.S. Air Force veteran building hands-on experience in software development, Linux, networking, cybersecurity, and robotics.
+
+I am particularly interested in software engineering, systems programming, computer systems, and technical roles that involve understanding how software interacts with hardware and operating systems.
 
 ## Current Focus
 
 - Pursuing a B.S. in Computer Science
-- Learning Bash scripting in an Ubuntu virtual machine
+- Developing Python software for Germanna Community College's ASME 2027 competition robot
+- Learning NumPy and OpenCV for computer vision and autonomous robotics
+- Building Bash scripting skills in an Ubuntu virtual machine
 - Building and documenting Linux and network-security labs
-- Developing control software and automation for Germanna Community College's ASME robot design project
+- Developing experience with Git, GitHub, and collaborative software development
 
 ## Featured Projects
 
-- **[Bash Scripting Lab](https://github.com/bl1zz4rdw1z4rd/Bash-Scripting-Lab-02)** — Beginner Bash exercises and notes from my Ubuntu lab.
-- **[Kali Linux Network Security Lab](https://github.com/bl1zz4rdw1z4rd/Kali-Linux_Lab-01)** — Documenting a VirtualBox lab for practicing networking and packet analysis with authorized test devices.
-- **[GCC ASME Robot Program](https://github.com/bl1zz4rdw1z4rd/GCC-ASME-Robot-2027)** — C++ software for the Germanna Community College team’s ASME Competition 2027 robot.
+- **[GCC ASME Robot 2027](https://github.com/bl1zz4rdw1z4rd/GCC-ASME-Robot-2027)** — Python software and technical documentation for Germanna Community College's ASME 2027 competition robot. Current development focuses on computer vision, autonomous navigation concepts, sensor processing, and robot control using Python, NumPy, and OpenCV.
+
+- **[Bash Scripting Lab](https://github.com/bl1zz4rdw1z4rd/Bash-Scripting-Lab-02)** — Bash scripting exercises and Linux administration practice completed in an Ubuntu virtual machine.
+
+- **[Kali Linux Network Security Lab](https://github.com/bl1zz4rdw1z4rd/Kali-Linux_Lab-01)** — VirtualBox-based networking and security lab documenting packet analysis, network configuration, and authorized testing using tools including Wireshark and Nmap.
 
 ## Languages and Tools
 
-- **Languages:** C++, Python, Java; currently learning Bash
-- **Systems and networking:** Linux, VirtualBox, networking fundamentals
-- **Lab tools:** Wireshark, Nmap
+**Languages**
+- Python
+- C++
+- Java
+- Bash
+
+**Software Development**
+- Git
+- GitHub
+- Visual Studio Code
+- Python virtual environments
+
+**Robotics and Data**
+- NumPy
+- OpenCV
+- Jupyter
+
+**Systems and Networking**
+- Linux
+- Ubuntu
+- Kali Linux
+- VirtualBox
+- Networking fundamentals
+
+**Security and Analysis**
+- Wireshark
+- Nmap
+
+## Currently Learning
+
+- Computer vision with OpenCV
+- Numerical processing with NumPy
+- Autonomous robot navigation
+- Sensor-based control systems
+- Linux scripting and system administration
 
 ## Contact
 
